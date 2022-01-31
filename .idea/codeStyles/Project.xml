@@ -1,0 +1,10 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="LINE_SEPARATOR" value="&#13;" />
+    <option name="FORMATTER_TAGS_ENABLED" value="true" />
+    <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
+    <codeStyleSettings language="JAVA">
+      <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
